@@ -15,7 +15,7 @@
     <jstl-version>1.2</jstl-version>
     <javax.servlet-version>3.1.0</javax.servlet-version>
     <javax.servlet.jsp-version>2.2</javax.servlet.jsp-version>
-    <mysql-connector-version>5.1.40</mysql-connector-version>
+    <mysql-connector-version>5.7.17</mysql-connector-version>
     <org.apache.maven.plugins-version>3.5.1</org.apache.maven.plugins-version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
